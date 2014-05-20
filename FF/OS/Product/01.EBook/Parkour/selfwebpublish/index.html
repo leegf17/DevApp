@@ -3,7 +3,7 @@
     <p>Packaged app installation page</p>
     <script>
       // This URL must be a full url.
-      var manifestUrl = 'http://my-server.com/my-app-directory/package.manifest';
+      var manifestUrl = 'https://github.com/leegf17/DevApp/blob/master/FF/OS/Product/01.EBook/Parkour/selfwebpublish/package.manifest';
       var req = navigator.mozApps.installPackage(manifestUrl);
       req.onsuccess = function() {
         alert(this.result.origin);
