@@ -1,3 +1,1 @@
-AddType application/x-web-app-manifest+json .webapp;
-AddHandler x-web-app-manifest+json .webapp;
-charset=UTF-8
+AddType application/x-web-app-manifest+json .webapp
