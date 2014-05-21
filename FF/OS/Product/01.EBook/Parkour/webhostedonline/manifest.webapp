@@ -1,15 +1,15 @@
 {
   "version": "1.1.20140520",
-  "launch_path": "/index.html",
+  "launch_path": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/index.html",
   "name": "Parkour",
   "description": "It's an Webcam Swiper Book about Parkour.",
   "icons": {
-    "128": "/images/icon-128.png",
-    "256": "/images/icon-256.png",
-    "32": "/images/icon-32.png",
-    "120": "/images/icon-120.png",
-    "90": "/images/icon-90.png",
-    "60": "/images/icon-60.png"
+    "128": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-128.png",
+    "256": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-256.png",
+    "32": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-32.png",
+    "120": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-120.png",
+    "90": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-90.png",
+    "60": "/DevApp/tree/master/FF/OS/Product/01.EBook/Parkour/webhostedonline/images/icon-60.png"
   },
   "developer": {
     "name": "Ray Lee",
