@@ -1,0 +1,37 @@
+{
+  "version": "1.1.20140520",
+  "launch_path": "/index.html",
+  "name": "Parkour",
+  "description": "使用说明: 首先，确保终端开启了摄像头权限，以便在前置摄像头前通过手势完成向左/右翻页动作；也可通过在页面上分别点击左右方向键来进行向左/右翻页操作，每页多余内容可以在屏幕上向上/下滑动进行查看。",
+  "icons": {
+    "128": "/images/icon-128.png",
+    "256": "/images/icon-256.png",
+    "32": "/images/icon-32.png",
+    "120": "/images/icon-120.png",
+    "90": "/images/icon-90.png",
+    "60": "/images/icon-60.png"
+  },
+  "developer": {
+    "name": "Ray Lee",
+    "url": "http://webapplee.blog.com"
+  },
+  "permissions": {
+    "audio-capture": {
+      "description": "Required to capture audio via getUserMedia"
+    },
+    "video-capture": {
+      "description": "Required to capture video"
+    },
+    "webrtc": {
+      "description": "Required to capture webrtc via getUserMedia"
+    }
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "landscape",
+  "chrome": {
+    "navigation": true
+  },
+  "fullscreen": "true"
+}
